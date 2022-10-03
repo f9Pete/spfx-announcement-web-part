@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-company-announcements-webpart-client-side-solution",
+    "id": "d290a925-bc05-425f-969e-d7a96eb43278",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-company-announcements-webpart description"
+      },
+      "longDescription": {
+        "default": "spfx-company-announcements-webpart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-company-announcements-webpart Feature",
+        "description": "The feature that activates elements of the spfx-company-announcements-webpart solution.",
+        "id": "3c3cc055-0a7a-4ffd-b6c7-b55cf110edd2",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-company-announcements-webpart.sppkg"
+  }
+}
